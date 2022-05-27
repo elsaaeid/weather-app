@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(0.59turn, wheat, #1c618fbd, black);
+    background: linear-gradient(0.75turn, #2e2e2e, #797c83, black);
     overflow-y: hidden;
     font-family: 'Comfortaa', cursive;
 }
